@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.a {
+  position: absolute;
+  top: 60px;
+  right: 450px;
+}
+.b {
+  position: absolute;
+  bottom: 60px;
+  left: 400px;
+}
